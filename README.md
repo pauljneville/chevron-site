@@ -7,3 +7,5 @@ static website with scheduler embedded to manage bookings, client information an
 uses emotion for css as a component styling
 uses helmet to generate the header metadata
 hosted on google firebase
+
+![screenshot of website](https://chevrondogtraining.com/cdt-overview.png)
